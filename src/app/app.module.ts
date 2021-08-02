@@ -11,6 +11,11 @@ import { ProductsComponent } from './products/products.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { CardsComponent } from './cards/cards.component';
 import { FourOhfourComponent } from './four-ohfour/four-ohfour.component';
+import { TotalSalesComponent } from './total-sales/total-sales.component';
+import { TotalOrdersComponent } from './total-orders/total-orders.component';
+import { TotalCartsComponent } from './total-carts/total-carts.component';
+import { TotalUsersComponent } from './total-users/total-users.component';
+import { UserComponent } from './user/user.component';
 
 
 
@@ -25,6 +30,11 @@ import { FourOhfourComponent } from './four-ohfour/four-ohfour.component';
     DashboardComponent,
     CardsComponent,
     FourOhfourComponent,
+    TotalSalesComponent,
+    TotalOrdersComponent,
+    TotalCartsComponent,
+    TotalUsersComponent,
+    UserComponent,
     
     
   ],
