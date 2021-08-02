@@ -10,6 +10,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { ProductsComponent } from './products/products.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { CardsComponent } from './cards/cards.component';
+import { FourOhfourComponent } from './four-ohfour/four-ohfour.component';
 
 
 
@@ -23,6 +24,7 @@ import { CardsComponent } from './cards/cards.component';
     ProductsComponent,
     DashboardComponent,
     CardsComponent,
+    FourOhfourComponent,
     
     
   ],
