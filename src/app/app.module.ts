@@ -16,6 +16,7 @@ import { TotalOrdersComponent } from './total-orders/total-orders.component';
 import { TotalCartsComponent } from './total-carts/total-carts.component';
 import { TotalUsersComponent } from './total-users/total-users.component';
 import { UserComponent } from './user/user.component';
+import { SaleComponent } from './sale/sale.component';
 
 
 
@@ -35,6 +36,7 @@ import { UserComponent } from './user/user.component';
     TotalCartsComponent,
     TotalUsersComponent,
     UserComponent,
+    SaleComponent,
     
     
   ],
