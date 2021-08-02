@@ -6,6 +6,11 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { OrderComponent } from './order/order.component';
+import { HomePageComponent } from './home-page/home-page.component';
+import { ProductsComponent } from './products/products.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import { CardsComponent } from './cards/cards.component';
+
 
 
 @NgModule({
@@ -14,6 +19,11 @@ import { OrderComponent } from './order/order.component';
     HeaderComponent,
     SidebarComponent,
     OrderComponent,
+    HomePageComponent,
+    ProductsComponent,
+    DashboardComponent,
+    CardsComponent,
+    
     
   ],
   imports: [
